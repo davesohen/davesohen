@@ -12,7 +12,7 @@
 <img src="imgs/soHenResearch.png" width="400px" height="400px" />
  <br />
   
-## <strong>soHen Research</strong>
+## <strong><a href="https://sohen.net">soHen Research</a></strong>
 </td>
 <td>
 
