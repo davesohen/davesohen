@@ -9,7 +9,7 @@
 
 <tr>
 <td width="400px">
-<img src="imgs/soHenResearch.png" width="400px" height="400px" />
+<a href="https://sohen.net"><img src="imgs/soHenResearch.png" width="400px" height="400px" /></a>
  <br />
   
 ## <strong><a href="https://sohen.net">soHen Research</a></strong>
@@ -79,7 +79,7 @@
     </ul>
   </td>
   <td>
-    <img src="imgs/GODsSons.jpg" width="300px" height="300px" /></td>
+    <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwhatsapp.com%2Fchannel%2F0029VaouCFzGk1FuUzwnbe2c%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR3K0E0OVpk1unG6Lkw9OWmbRxl1-FMiGE96umjh-drLabhyX_lOUCH2AOE_aem_W8SbixevdLutR1pJZtPDxw&h=AT3UvzjZNWx-NzAX3o84-OAdMgxQsz68Yk2Z-sN56Ioa_4ffL-BT_P_l3vmMBKKorsivtKRGheD-i9dYklM5H6wntrpgsk_YWIRaVMCL0hDmBRleRE4AtyLpzczORTbdJTSfiA"><img src="imgs/GODsSons.jpg" width="300px" height="300px" /></a></td>
  </tr>
  <tr>
    <td colspan="2">
