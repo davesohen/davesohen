@@ -42,7 +42,7 @@
 <tr>
   <td colspan="2">
     <ul>
-      <li><a href="https://www.linkedin.com/in/dave-sohen">LinkedIn</a></li>
+      <li><a href="https://www.linkedin.com/in/davesohen">LinkedIn</a></li>
       <li><a href="https://www.facebook.com/profile.php?id=61562956337548">Facebook</a></li>
       <li><a href="https://www.youtube.com/@davesohen">Youtube Channel</a></li>
     </ul>
