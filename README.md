@@ -68,7 +68,7 @@
  
  <tr>
   <th colspan="2">
-    Thanks to my Pastors and all my teachers of the Word of GOD
+    Thanks to my Pastor (@GOD's Sons) and all my teachers of the Word of GOD, for helping strengthen my faith everyday!
   </th>
  </tr>
 <tr>
