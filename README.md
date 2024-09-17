@@ -12,7 +12,8 @@
 <a href="https://sohen.net"><img src="imgs/soHenResearch.png" width="400px" height="400px" /></a>
  <br />
   
-## <strong><a href="https://sohen.net">soHen Research</a></strong>
+## <strong><a href="https://sohen.net">soHen Research</a></strong><br />
+### <strong><a href="https://za.linkedin.com/company/sohen-research">soHen Research (LinkedIn)</a></strong>
 </td>
 <td>
 
